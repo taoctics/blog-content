@@ -1,0 +1,13 @@
+{
+  "postsDirectory": "posts",
+  "templatePath": "templates/post.md",
+  "defaults": {
+    "summary": "写一段关于「{{title}}」的摘要。",
+    "categories": [
+      "未分类"
+    ],
+    "tags": [],
+    "collections": [],
+    "draft": false
+  }
+}
